@@ -1,0 +1,15 @@
+C:\Users\sonu.k\source\repos\ConsoleAppCore\ProjectNew1\bin\Debug\net6.0\ProjectNew1.exe
+C:\Users\sonu.k\source\repos\ConsoleAppCore\ProjectNew1\bin\Debug\net6.0\ProjectNew1.deps.json
+C:\Users\sonu.k\source\repos\ConsoleAppCore\ProjectNew1\bin\Debug\net6.0\ProjectNew1.runtimeconfig.json
+C:\Users\sonu.k\source\repos\ConsoleAppCore\ProjectNew1\bin\Debug\net6.0\ProjectNew1.dll
+C:\Users\sonu.k\source\repos\ConsoleAppCore\ProjectNew1\bin\Debug\net6.0\ProjectNew1.pdb
+C:\Users\sonu.k\source\repos\ConsoleAppCore\ProjectNew1\obj\Debug\net6.0\ProjectNew1.csproj.AssemblyReference.cache
+C:\Users\sonu.k\source\repos\ConsoleAppCore\ProjectNew1\obj\Debug\net6.0\ProjectNew1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonu.k\source\repos\ConsoleAppCore\ProjectNew1\obj\Debug\net6.0\ProjectNew1.AssemblyInfoInputs.cache
+C:\Users\sonu.k\source\repos\ConsoleAppCore\ProjectNew1\obj\Debug\net6.0\ProjectNew1.AssemblyInfo.cs
+C:\Users\sonu.k\source\repos\ConsoleAppCore\ProjectNew1\obj\Debug\net6.0\ProjectNew1.csproj.CoreCompileInputs.cache
+C:\Users\sonu.k\source\repos\ConsoleAppCore\ProjectNew1\obj\Debug\net6.0\ProjectNew1.dll
+C:\Users\sonu.k\source\repos\ConsoleAppCore\ProjectNew1\obj\Debug\net6.0\refint\ProjectNew1.dll
+C:\Users\sonu.k\source\repos\ConsoleAppCore\ProjectNew1\obj\Debug\net6.0\ProjectNew1.pdb
+C:\Users\sonu.k\source\repos\ConsoleAppCore\ProjectNew1\obj\Debug\net6.0\ProjectNew1.genruntimeconfig.cache
+C:\Users\sonu.k\source\repos\ConsoleAppCore\ProjectNew1\obj\Debug\net6.0\ref\ProjectNew1.dll
